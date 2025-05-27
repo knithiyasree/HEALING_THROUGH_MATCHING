@@ -1,6 +1,6 @@
 # Healing Through Matching: How Stub Tuning Empowers Implantable Medical Devices & Cancer Ablation
 # 1. Introduction
-![image](https://github.com/user-attachments/assets/a45c447e-dbd4-49cc-8dc6-e6a44c7cc3cc)
+                         ![image](https://github.com/user-attachments/assets/a45c447e-dbd4-49cc-8dc6-e6a44c7cc3cc)
 
 In the world of modern medicine, precision is life-saving. Technologies such as implantable diagnostic devices and RF ablation tools for cancer therapy depend on accurate and reliable RF power transmission inside the human body — a notoriously lossy and variable medium. At the heart of achieving this reliability lies a core microwave engineering technique: stub matching.
 

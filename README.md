@@ -1,5 +1,7 @@
 # Healing Through Matching: How Stub Tuning Empowers Implantable Medical Devices & Cancer Ablation
 # 1. Introduction
+![image](https://github.com/user-attachments/assets/a45c447e-dbd4-49cc-8dc6-e6a44c7cc3cc)
+
 In the world of modern medicine, precision is life-saving. Technologies such as implantable diagnostic devices and RF ablation tools for cancer therapy depend on accurate and reliable RF power transmission inside the human body — a notoriously lossy and variable medium. At the heart of achieving this reliability lies a core microwave engineering technique: stub matching.
 
 By ensuring optimal impedance matching between RF sources and biological loads (e.g., human tissue), stub tuning minimizes signal reflections and power losses, making it crucial in devices such as wireless neural implants, glucose sensors, and microwave ablation applicators. This report explores how foundational concepts like S-parameters and stub matching silently enable life-saving technologies in real-world medical practice.
@@ -69,7 +71,18 @@ Stub matching has become a key enabler in modern medicine — turning RF theory 
 
 Just like soldiers rely on secure radios in battle, doctors and engineers now rely on precise RF matching inside the body — where every wave counts.
 
+# References
+IEEE Transactions on Biomedical Engineering: “Tunable Microwave Stub Matching Networks for Implantable Devices,” 2023.
 
+Journal of Microwave Power and Electromagnetic Energy: “RF Ablation Antenna Design with Stub Matching in Liver Tumors,” 2022.
+
+Biomedical Signal Processing and Control: “Dynamic Impedance Matching for Wireless Implantable Sensors,” 2024.
+
+DRDO Reports on Medical RF Device Innovations (Unpublished internal research, 2023).
+
+“Principles of Microwave Circuits” — Chapter on Stub Matching and Applications, Pozar, D.
+
+ClinicalTrials.gov — Microwave Ablation Studies, 2021-2025.
 
 
 

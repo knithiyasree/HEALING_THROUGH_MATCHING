@@ -21,6 +21,8 @@ VSWR quantifies the degree of standing waves due to reflected signals. Ideal VSW
 
 # Medical Application:
 Microwave ablation antennas used in treating liver or kidney tumors are designed with stub-matched lines to keep VSWR close to 1, ensuring that most of the microwave energy penetrates the tissue without being reflected — enabling precise thermal destruction of cancer cells.
+![image](https://github.com/user-attachments/assets/c403b01c-d90f-4c98-899c-1dae06c68425)
+
 # 4. Return Loss (RL)
 ![image](https://github.com/user-attachments/assets/71b402ef-caad-4e3a-94c9-16d41ec0a5fb)
 # Explanation:
@@ -42,6 +44,8 @@ The S-matrix relates incident and reflected waves in 2-port networks like ablati
 
 # Medical Application:
 Designers of implanted RF telemetry modules for pacemakers use this matrix to optimize signal routing between transceiver circuits and antennas. Stub-matched ports help minimize S₁₁, maximizing outgoing signal strength.
+![image](https://github.com/user-attachments/assets/1368c88a-7ac5-4775-8f69-a84b45194686)
+
 # 7. Power Delivered to Load (P<sub>L</sub>)
 ![image](https://github.com/user-attachments/assets/1f768713-af91-4131-9542-5c9ca0f8e546)
 # Explanation:
@@ -64,6 +68,7 @@ This defines each scattering parameter as the response at port i due to an input
 
 # Medical Application:
 Multi-port RF analyzers used in medical device testing apply this definition during QA of antenna modules. This ensures minimal cross-talk and reflection when stubs are integrated in tiny multi-antenna implants for real-time monitoring.
+
 # 🔚 Conclusion: Stub Tuners — The Silent Healers in RF Medicine
 From the outside, an RF ablation probe or an implantable antenna may appear as simple wires. But within lies a carefully engineered world of impedance-matching stub circuits, S-parameter tuning, and wave optimization, ensuring that signals reach their targets with surgical precision.
 

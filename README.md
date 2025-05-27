@@ -47,7 +47,7 @@ Designers of implanted RF telemetry modules for pacemakers use this matrix to op
 ![image](https://github.com/user-attachments/assets/1368c88a-7ac5-4775-8f69-a84b45194686)
 
 # 7. Power Delivered to Load (P<sub>L</sub>)
-![image](https://github.com/user-attachments/assets/1f768713-af91-4131-9542-5c9ca0f8e546)
+![image](https://github.com/user-attachments/assets/1f768713-af91-4131-9542-5c9ca0f8e546) 
 # Explanation:
 This equation tells us how much power is actually delivered to the load (tissue or receiver) after accounting for reflected power.
 

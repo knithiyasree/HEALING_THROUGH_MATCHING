@@ -44,7 +44,8 @@ The S-matrix relates incident and reflected waves in 2-port networks like ablati
 
 # Medical Application:
 Designers of implanted RF telemetry modules for pacemakers use this matrix to optimize signal routing between transceiver circuits and antennas. Stub-matched ports help minimize S₁₁, maximizing outgoing signal strength.
-![image](https://github.com/user-attachments/assets/1368c88a-7ac5-4775-8f69-a84b45194686)
+![image](https://github.com/user-attachments/assets/d9712424-3ce3-4782-aef8-fb377c814518)
+
 
 # 7. Power Delivered to Load (P<sub>L</sub>)
 ![image](https://github.com/user-attachments/assets/1f768713-af91-4131-9542-5c9ca0f8e546) 
